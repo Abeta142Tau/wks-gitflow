@@ -1,4 +1,4 @@
-import useSWR from 'swr';
+import useSWR from 'Swr';
 
 import { swGet } from '../../utils/fetcher';
 import Table from '../Table';
